@@ -9,6 +9,7 @@ body{
     font-family: serif;
     /* mozna dodac drugi font */
     overflow: hidden;
+    width: 50px;
     color: white;
     background: royalblue;
 }
